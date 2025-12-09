@@ -481,8 +481,8 @@ LOG_LEVEL=INFO
 
 
 ## 🔗 Related
-1. [MateTrip Main Backend Server](https://github.com/NaManMu-10th-team7/matetrip-backend)
-2. [MateTrip Front](https://github.com/NaManMu-10th-team7/matetrip-frontend)
+1. [MateTrip Main Backend Server](https://github.com/YooSungSoo/matetrip_backend)
+2. [MateTrip Front](https://github.com/YooSungSoo/matetrip_frontend)
 
 ## 라이선스
 
