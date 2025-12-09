@@ -20,7 +20,7 @@ LangGraph 기반 대화형 에이전트부터 장소 처리·경로 최적화·�
 ---
 
 ## 🗂 ERD Overview   
-<a href="https://www.erdcloud.com/d/vZioi9856wurCMtAq" target="_blank" rel="noopener noreferrer">
+<a href="https://www.erdcloud.com/d/zisMDhbp4vftyMgZg" target="_blank" rel="noopener noreferrer">
   ERD 링크
 </a>
 <img width="1359" height="735" alt="cropped_erd" src="https://github.com/user-attachments/assets/631312a3-4df8-461a-90ac-65701ec795ac" />
